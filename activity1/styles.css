@@ -1,0 +1,50 @@
+li {
+	list-style-type: none;
+	display: inline;
+}
+
+ul {
+	padding-left: 0;
+}
+
+footer {
+	clear: both;
+}
+
+.center {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.left {
+	width: 50%;
+	padding-left: 15%;
+	float: left;
+}
+
+.right {
+	width: 50%;
+	padding-right: 15%;
+	float: right;
+}
+
+.bgcolor {
+	background-color: #230b03;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.width-third {
+	width: 33%;
+}
+
+.bgimage {
+	background-image: url("beans.jpg");
+	background-size: cover;
+}
+
+.dream {
+	background-image: url("beans-logo.png");
+}
