@@ -1,33 +1,32 @@
 # Activity for group 1
 
-## Website cloning
+## Going over the Cafe Lab
 
-Working together to clone an existing website.
-Everyone will be following along and typing things out to get a feel for typing HTML and CSS.
-We will be scrutinizing every element and discussing what our options are (e.g. should we use a div or a section tag?). 
-Hopefully we will get the structure done with enough time for us to dive into CSS.
+We'll go over the cafe lab and do a bit of Q/A.
+Then I thought it might be useful to see how I would approach the lab
+and how I work when I develop a website. You can ask questions and ask me
+about design decisions and things like that if it's useful. Or you can
+just follow along.
+
+If that's not useful, then I think having some time to get further along
+on the lab while I wander around helping individuals could be useful.
 
 ## Important links
 
-* https://news.ycombinator.com
-* http://ycombinator.com/images/Y180.gif
 * https://developer.mozilla.org/en-US/
-
-## Notes
-
-The above [image](http://ycombinator.com/images/Y180.gif) is released under Creative Commons 2.5 by [Y Combinator](http://ycombinator.com)
 
 # Activity for group 2
 
 ## Mobile first and media queries
 
-Mobile-first practice.
-Have a design/mockup for a phone and implement it with semantic HTML and organized CSS.
-After the first page is done, stretch the window until the design looks bad.
-This is where you will add a media query. 
-Measure the size of the window and add a media query for this size.
-Reorganize the content to look good in this new sized window. 
-Repeat until you can't make the window any bigger.
+Group two will be a bit more independantly focused. People can take a look
+at the code in this repo and if they want to, use it as a base for a responsive
+cafe shop site.
+
+Sketch out a mobile design for the cafe shop and implement it.
+After you implement the design for the smallest screen size, stretch your browser out until
+the design looks ugly. Add a media query to introduce some new CSS and redesign the site.
+Rinse and repeat until you get to the full-sized design.
 
 ## Important links
 
