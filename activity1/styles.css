@@ -1,0 +1,42 @@
+header {
+    background-image: url('beans.jpg');
+}
+
+.logo {
+    background-image: url('beans-logo.png');
+    width: 136px;
+    height: 178px;
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    padding: 0 10px;
+}
+
+ul {
+    text-align: center;
+    padding: 0;
+}
+
+.bg {
+    background-color: #230b03;
+}
+
+body {
+    width: 1024px;
+}
+
+.col {
+    margin: 0 auto;
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+
+footer {
+    color: #a38f74;
+    text-align: center;
+}
+/* background color 230b03 */
